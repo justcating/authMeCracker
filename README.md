@@ -1,6 +1,10 @@
 ## authMeCracker
 Python script to bruteforce "authMe" Minecraft plugin
 
+You can change the "cooldownTime" variable in the code, to customize it for the desired server
+
+## **NEED AN IMPACT CLIENT WITH RECONNECT ENABLED!**
+
 # Install
 
 Install requirements:
