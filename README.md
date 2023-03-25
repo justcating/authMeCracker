@@ -3,7 +3,7 @@ Python script to bruteforce "authMe" Minecraft plugin
 
 You can change the "cooldownTime" variable in the code, to customize it for the desired server
 
-# FOR EDUCATIONAL PURPOSE ONLY
+### FOR EDUCATIONAL PURPOSE ONLY
 
 ## **NEED A ~~CHEAT~~ CLIENT WITH AUTO RECONNECT ENABLED!**
 
